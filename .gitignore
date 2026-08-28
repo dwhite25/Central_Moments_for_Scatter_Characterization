@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+delta_database.csv
+gmm_database.csv
+data/
