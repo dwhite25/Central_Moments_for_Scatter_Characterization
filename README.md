@@ -2,7 +2,7 @@
 
 This repository contains the simulation, estimation, Fisher-information, and analysis code developed for the manuscript:
 
-**"A Statistical Moment Framework for Sub-Resolution Scatterer Identifiability"**
+**"A Moment-Based Framework for Sub-Resolution Radar Scatterer Characterization"**
 
 The project investigates how spatially distributed scattering targets can be characterized when their internal structure lies far below the conventional inverse-bandwidth range-resolution scale.
 
@@ -270,7 +270,7 @@ The code therefore records the Fisher-information condition number and evaluates
 
 This repository accompanies:
 
-*D. D. White et al., **"A Statistical Moment Framework for Sub-Resolution Scatterer Identifiability."***
+*D. D. White et al., **"A Moment-Based Framework for Sub-Resolution Radar Scatterer Characterization."***
 
 [Manuscript / preprint link to be added]
 
